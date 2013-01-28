@@ -1,0 +1,23 @@
+input                                      output                                total_tax           total_cost
+
+1 book at 12.49                            1 book : 12.49                           -                   -
+
+1 chocolate bar at 0.85                    1 chocolate bar: 0.85                    -                   -
+
+1 music CD at 14.99                        1 music CD: 16.49                        -                   -
+
+1 imported box of chocolates at 10.00      1 imported box of chocolates: 10.50      -                   -
+
+1 imported bottle of perfume at 47.50      1 imported bottle of perfume: 54.65      -                   -
+
+1 book at 12.49                            1 book : 12.49                          1.50                 -
+1 music CD at 14.99                        1 music CD: 16.49
+1 chocolate bar at 0.85                    1 chocolate bar: 0.85
+
+1 book at 12.49                            1 book : 12.49                          1.50                 29.83
+1 music CD at 14.99                        1 music CD: 16.49
+1 chocolate bar at 0.85                    1 chocolate bar: 0.85
+
+
+
+
